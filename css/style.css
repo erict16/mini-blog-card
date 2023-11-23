@@ -1,0 +1,53 @@
+/* Global */
+
+body {
+  font-family: "Sora", sans-serif;
+  display: flex;
+  justify-content: center;
+}
+
+/* Typography */
+h1 {
+  font-size: 18px;
+}
+
+p {
+  font-size: 14px;
+  font-weight: 200;
+  visibility: 70%;
+}
+
+img {
+  width: 336px;
+  border-radius: 10px;
+}
+
+hr {
+  opacity: 0.2;
+}
+
+/* Class */
+.card {
+  width: 336px;
+  margin-top: 164px;
+  box-shadow: 5px 30px 100px 5px rgba(17, 23, 41, 0.05);
+  border-radius: 10px;
+  padding: 16px;
+}
+
+.tag {
+  border-radius: 20px;
+  color: #883ae1;
+  background-color: #e6d6fc;
+  width: 63px;
+}
+
+.tag p {
+  font-size: 10px;
+  padding: 6px 14px;
+  font-weight: 400;
+}
+
+.author p {
+  font-size: 12px;
+}
