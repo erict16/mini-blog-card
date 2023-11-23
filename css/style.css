@@ -4,6 +4,9 @@ body {
   font-family: "Sora", sans-serif;
   display: flex;
   justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0; /* Add this line */
 }
 
 /* Typography */
@@ -29,7 +32,6 @@ hr {
 /* Class */
 .card {
   width: 336px;
-  margin-top: 164px;
   box-shadow: 5px 30px 100px 5px rgba(17, 23, 41, 0.05);
   border-radius: 10px;
   padding: 16px;
