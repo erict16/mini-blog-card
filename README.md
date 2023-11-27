@@ -11,3 +11,6 @@ This challenge is a great way to start with basic HTML and CSS skills. The chall
 ## Preview
 ![preview](https://github.com/erict16/mini-blog-card/assets/83531295/71d13af7-d47b-46e6-bd87-92f14538eab3)
 
+## Build with
+- HTML
+- CSS
